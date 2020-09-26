@@ -10,18 +10,18 @@ This is a repository for Data Structure programs implemented in DS class. The Fi
 * [BoxDemo](BoxDemo.java)
 * [BoxDemo1](BoxDemo1.java)
 * [BoxDemo2](BoxDemo2.java)
-* [Calculator](Calculator.java) 
+* [Simple Calculator](Calculator.java) 
 * [CopyArray](CopyArray.java)
-* CountCharacter
-* DuplicateCharacter
-* EvenPosition
-* Factorial
-* FiboSrch_ADT
-* FibonacciExample
-* HelloWorld
-* InsertionSortADT
-* LargestArray
-* LinearsearchADT
+* [CountCharacter](CountCharacter.java)
+* [DuplicateCharacter](DuplicateCharacter.java)
+* [EvenPosition](EvenPosition.java)
+* [Factorial Example](Factorial.java)
+* [FiboSrch_ADT](FiboSrch_ADT.java)
+* [FibonacciExample](FibonacciExample.java)
+* [HelloWorld](HelloWorld.java)
+* [InsertionSortADT](InsertionSortADT.java)
+* [LargestArray](LargestArray.java)
+* [LinearsearchADT](LinearsearchADT.java)
 * ListOfNumber
 * MatrixAddition
 * MergeSort
