@@ -22,16 +22,16 @@ This is a repository for Data Structure programs implemented in DS class. The Fi
 * [InsertionSortADT](InsertionSortADT.java)
 * [LargestArray](LargestArray.java)
 * [LinearsearchADT](LinearsearchADT.java)
-* ListOfNumber
-* MatrixAddition
-* MergeSort
-* QuickSort
-* ReverseString
-* Sorting
-* Stack
-* Stackecp
-* Test
-* Test1
+* [ListOfNumber](ListOfNumber.java)
+* [MatrixAddition](MatrixAddition.java)
+* [MergeSort](MergeSort.java)
+* [QuickSort](QuickSort.java)
+* [ReverseString](ReverseString.java)
+* [Sorting](Sorting.java)
+* [Stack](Stack.java)
+* [Stackexp](Stackexp.java)
+* [Test](Test.java)
+* [Test1](Test1.java)
 
 ## Submitted By
 * Bhavya Kolluru (CSE - A)
