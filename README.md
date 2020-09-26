@@ -10,6 +10,7 @@ This is a repository for Data Structure programs implemented in DS class. The Fi
 * BoxDemo
 * BoxDemo1
 * BoxDemo2
+* Calculator (Simple)
 * CopyArray
 * CountCharacter
 * DuplicateCharacter
