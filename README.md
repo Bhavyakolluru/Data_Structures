@@ -6,12 +6,12 @@ This is a repository for Data Structure programs implemented in DS class. The Fi
 * java classname/filename
 
 # List of Programs
-* Binary Search
-* BoxDemo
-* BoxDemo1
-* BoxDemo2
-* Calculator (Simple)
-* CopyArray
+* [Binary Search](BinarySearchADT.java)
+* [BoxDemo](BoxDemo.java)
+* [BoxDemo1](BoxDemo1.java)
+* [BoxDemo2](BoxDemo2.java)
+* [Calculator](Calculator.java) 
+* [CopyArray](CopyArray.java)
 * CountCharacter
 * DuplicateCharacter
 * EvenPosition
