@@ -18,6 +18,7 @@ This is a repository for Data Structure programs implemented in DS class. The Fi
 * [Factorial Example](Factorial.java)
 * [FiboSrch_ADT](FiboSrch_ADT.java)
 * [FibonacciExample](FibonacciExample.java)
+* [FibonacciSearch](FibonacciSearch.java)
 * [HelloWorld](HelloWorld.java)
 * [InsertionSortADT](InsertionSortADT.java)
 * [LargestArray](LargestArray.java)
